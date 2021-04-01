@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882105719180",
+    "firebase_url": "https://ayurveda-diary.firebaseio.com",
+    "project_id": "ayurveda-diary",
+    "storage_bucket": "ayurveda-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882105719180:android:dbbce2422cf0bdaa435ea9",
+        "android_client_info": {
+          "package_name": "com.example.ayurvedadiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882105719180-ua09pjot5228viu770jm0q294lih2i00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayurvedadiary",
+            "certificate_hash": "08f64fb57602a093c0399d88a0c287a9e70e1529"
+          }
+        },
+        {
+          "client_id": "882105719180-iv9ch3j4o8c2g8qa978i823rm3dt7o70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzAGF1tnozaqOdZnPPyFEmtQUjCIFr7K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882105719180-iv9ch3j4o8c2g8qa978i823rm3dt7o70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

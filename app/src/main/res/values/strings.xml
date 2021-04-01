@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayurveda Diary</string>
+    <string name="description_txt">#Latin Name: "Phyllanthus emblica"
+
+    </string>
+    <string name="Amla_txt">
+        "Amla - Gooseberry is very rich in Iron, Vitamin C and Calcium"
+    </string>
+
+    <string name="goose_txt">
+        #Benefits of Amla
+    </string>
+
+    <string name="aml_txt">
+         "1. Supports healthy metabolism, digestion and elimination"
+         "2. Promotes anti-inflammatory properties that cool, tone, and nourish tissues and organs"
+         "3. Improves eye vision, improve skin health, prevents agening, improves hair health, protect and cure diabetes, improve cardiovascular health, prevent Anemia"
+         "4. Supports healthy metabolism, digestion and elimination"
+    </string>
+
+    <string name="am_txt">
+        "#How to make Amla hair oil at home?"
+    </string>
+
+    <string name="one_txt">
+       "1. Grate the Amla first and discard the pit. If you like you can use a blender"
+    </string>
+
+    <string name="two_txt">
+       "2. Squeeze out the Amla juice. Add coconut oil to it and whip it together for 4-5 minutes."
+    </string>
+
+    <string name="three_txt">
+       "3. Place the whipped oil in hot water until it goes liquid. Your freshly made Amla oil is ready."
+    </string>
+
+    <string name="ulcer_general_info">
+        Mouth ulcers are very painful. Even you cannot take a sip of water. The improper digestion, stomach infections,
+        intake of Paan are the major reasons behind happening of mouth ulcers.
+    </string>
+
+    <string name="homemade_remedies">
+        Some homemade remedies to get rid of mouth ulcers --
+    </string>
+
+    <string name="remedies_1">
+        1. You can apply glycerin on the ulcers. This helps in reducing dryness and pain. It hydrates your skin.
+    </string>
+
+    <string name="remedies_2">
+        2. Allowing ice chips to melt over the ulcers or rinsing your mouth with salt water or baking soda and water
+        may help to lessen pain.
+    </string>
+
+    <string name="remedies_3">
+        3. Avoiding spicy, acidic and abrasive foods may also help.
+    </string>
+
+    <string name="remedies_4">
+        4. You can apply Ghee over the ulcer which helps in softening of skin all around the ulcer and then consume coconut will also help.
+    </string>
+
+    <string name="remedies_5">
+        5. You can even consume three to four leaves of Mogra tree, can also help.
+    </string>
+
+    <string name="Almond_title">
+        1. How to make Almond whitening cream at home by just using simple two-three ingredients??
+    </string>
+
+    <string name="Almond_1">
+        Almond is very rich in vitamin E which protects your skin from UV rays. Almond makes skin soft, smooth and glowing. Almond also consists of vitamin-A which helps to reduce Acne. Alovera consists of Anti-oxidants and its rich with vitamins, which nourishes our Skin and keep it moisturized
+    </string>
+
+    <string name="Almond_2">
+        1. For making Almond Cream take some 10-15 almonds and soak it in water for overnight. Remove its skin.
+    </string>
+
+    <string name="Almond_3">
+        2. Take all those almonds and add some rose water and grind it well with the help of grinder.
+    </string>
+
+    <string name="Almond_4">
+        3. Now strain it well with the help of strainer. Now take this Almond milk in a bowl and add two tablespoon of Alovera gel, 2 tablespoon of Coconut oil and mix it well. Now, your homemade Almond cream is completely ready to use.
+    </string>
+
+
+    <string-array name="brew_array">
+        <item>Home Page</item>
+        <item>Selection Page</item>
+        <item>Diseases</item>
+    </string-array>
+</resources>
